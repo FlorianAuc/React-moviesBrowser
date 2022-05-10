@@ -8,5 +8,14 @@ $color3 : #FFFFFF;
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none;
 
+}
+
+body {
+  background: $color1;
+  color: $color3;
+  height: 100vh;
+  overflow-x: hidden;
 }

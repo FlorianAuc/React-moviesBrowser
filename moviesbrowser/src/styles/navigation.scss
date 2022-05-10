@@ -1,0 +1,40 @@
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 98%;
+
+  h2 {
+    font-size: 2.5rem;
+    letter-spacing: 2px;
+    font-weight: 800;
+
+    .orange-nav {
+      color: $color2;
+    }
+
+    .white-nav {
+      color: $color3;
+    }
+  }
+
+  ul {
+    display: flex;
+
+    li {
+      color: $color3;
+      margin: 0 20px 0;
+      font-size: 1.2rem;
+      border-bottom: solid 5px transparent;
+      transition: 0.3s;
+      font-weight: 900;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+
+      &:hover {
+        border-bottom: 5px solid $color3;
+      }
+
+    }
+  }
+}

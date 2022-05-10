@@ -1,0 +1,30 @@
+import React from "react";
+
+const Carousel = () => {
+  return (
+    <div className="carousel">
+      <div className="carousel-inner"></div>
+    </div>
+  );
+};
+
+export default Carousel;
+jfdsqkjklqdfslkjdfqskjljklqdsfjkdfsqljfjd;
+kjfskjlfdskjldfkjdkfkldfkljjklsfkljdqjf;
+jksqdjfdsqjkfljklfdjfkldsqjfdklqsjflkjdflksqjfdql;
+qdsjfklfdjklsdqjlkfsdjkldfjlkdfqjlkfdsqjkldfsjlkdfsq;
+jdjsljfkljflsqjflksqdjflqsdjflksqjfkldqjfkldqsjdflkjfsdqk;
+jfsqlkdjfslkdjsfdkqljfdsqkljfdklfjdkldsqf;
+sdjklfjklsdjfkdsjfkljflksjdf;
+jlkjlkfdjlkfjlkfjjkldjkdjfkdsf;
+jklfjkqsjkdlfdlkjlkfdljklkjdlkjsfljfdqljkdfskqkjfdlkjdsfq;
+kljdfsjlkfjkldsfqkjljkdsfqjklfdslkjdfslkjjklqdsflkjfsdqjklfsdqljkfsqdjklqlskjdf;
+lkjqdsfjkldsfjlkfdjljkqsfkjlqsflkjqsfdljlkdsfljkfdskjlqdsflkjqdsflkjsqfkjlqsskjldf;
+jlkfdqlkjdjkldsfjklfsdqjkdsfjkfsdjkqkjlfdsj;
+jkjkljkjkkjlkjljkmljklmlkjmjklm;
+hjhjhjhjhjhjjlhjkjkljk;
+hjjhjhlhjkjjhlhkjlhjkhkhjkhjkhjkhkjhjkhjkhkjhk;
+jhhjhhjhhhjhhklhlkhlkjhlkjlkjlkjjjklljkjllkjhjhjjklhllllljkllkhlklllljljj;
+dhfsjdfskdfsqhfjsdhkjdfhjkdqhkjlfhlkjfsdqhkldfsqhdqlkjsfhdqsflkjqdfshlqdfsjkhqdsfsdlkjfhdflkjdfhjklfdshlkj;
+jklgdmsfjklfdlmdsfjfdklfjdkfkjmfljjklffjkfgkjjklgfkgkfgflkfjdllkjsdjklfdjklfdsmj;
+jgfsdlkjfkldfjjkfdjklfsdjlkmdfsmlkjdfsmlkjjkmdsfjmlkfsdljmkdsfjm;
